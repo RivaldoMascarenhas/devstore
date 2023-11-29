@@ -1,7 +1,3 @@
 export default function Home() {
-  return (
-    <>
-      <h1>Hello Word</h1>
-    </>
-  );
+  return <div className="grid "></div>;
 }
